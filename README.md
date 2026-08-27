@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sisay
 - 👀 I’m interested in application development for Data Analysis and AI
-- 🌱 I’m currently learning dockerization of applications
 - 💞️ I’m looking to collaborate on privacy enhanced AI and interactive AI
-- 📫 How to reach me at sisayie.github.io
+- 📫 You can find how to each me at sisayie.github.io
 
 <!---
 sisayie/sisayie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
