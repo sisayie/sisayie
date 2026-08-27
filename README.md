@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sisay
 - 👀 I’m interested in application development for Data Analysis and AI
-- 💞️ I’m looking to collaborate on privacy enhanced AI and interactive AI
+- 💞️ I’m looking to collaborate on Cloud-native AI, privacy enhanced AI and human-AI interaction
 - 📫 You can find how to each me at sisayie.github.io
 
 <!---
